@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'aristotelica';
+    src: url(../font/Aristotelica-Text-DemiBold-trial.ttf);
+    
+  }
+
+body{
+    font-family: 'aristotelica';
+  }
+
+.navbar{
+   border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    padding: 0;
+}
+
+.navbar-brand{
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.navbar-toggler{
+    margin-right: 20px;
+}
+
+.bg-color{
+    background-color: #999999;
+}
+
+.container-fluid{
+    padding:0;
+}
+
+.bg-color-menu{
+     background-color: #ffffff;
+}
+
+
+.nav-item{
+    border: 1px solid #000000;
+}
+
+.paragragh{
+    background-color: #999999;
+    
+}
+
+h1{
+    font-size: 32px;
+}
+
+h2{
+    font-size: 24px;
+    color: #000000;
+}
+
+.nav-link{
+    color: #000000;
+}
+
+p{
+    color: #000000;
+}
